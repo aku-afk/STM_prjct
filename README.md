@@ -6,9 +6,12 @@
 
 ## LOCATE FOLDER
 
-  - Stinger & Idle Background : ``` __DRIVE__/aneh-aneh/ ```
-  - Flayer & ID Card          : ``` __DRIVE__/ ```
+  - Stinger & Idle Background             : ``` __DRIVE__/aneh-aneh/ ```
+  - Font (install dulu sblm open project) : ``` __DRIVE__/fntt/ ```
+  - Flayer & ID Card                      : ``` __DRIVE__/ ```
 
+
+## NOTE
 
 ```
 INGFO : Semua project berbasis Adobe dikerjakan menggunakan
