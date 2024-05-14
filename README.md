@@ -6,8 +6,8 @@
 
 ## LOCATE FOLDER
 
-  - Stinger & Idle Background : ``` ./aneh-aneh/ ```
-  - Flayer & ID Card          : ``` ./ ```
+  - Stinger & Idle Background : ``` __DRIVE__/aneh-aneh/ ```
+  - Flayer & ID Card          : ``` __DRIVE__/ ```
 
 
 ```
