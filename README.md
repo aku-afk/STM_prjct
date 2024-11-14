@@ -1,6 +1,6 @@
 # STM_prjct
 
-![image]([https://github.com/user-attachments/assets/aa597da0-e1fb-496f-b619-b1c3d5dcd0c3](https://raw.githubusercontent.com/aku-afk/STM_prjct/refs/heads/main/logo_stm.webp))
+![image](https://raw.githubusercontent.com/aku-afk/STM_prjct/refs/heads/main/logo_stm.webp)
 
 
 ## ASETS - SYAWALAN 1445H
