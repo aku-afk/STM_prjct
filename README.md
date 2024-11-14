@@ -1,7 +1,6 @@
 # STM_prjct
 
 ![image](https://raw.githubusercontent.com/aku-afk/STM_prjct/refs/heads/main/logo_stm.webp)
-![image](https://raw.githubusercontent.com/aku-afk/STM_prjct/refs/heads/main/logo_stm.png)
 
 
 ## ASETS - SYAWALAN 1445H
